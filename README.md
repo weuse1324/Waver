@@ -1,4 +1,4 @@
-# Waver - 文化をつなぎ、クリエイターに力を
+# Waver 
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)](/path/to/your/build/status)
@@ -48,7 +48,7 @@
 1.  **リポジトリをクローンする:**
 
     ```bash
-    git clone [無効な URL を削除しました]
+    git clone https://github.com/weuse1324/Waver
     ```
 
 2.  **依存関係をインストールする:**
