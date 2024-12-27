@@ -80,7 +80,7 @@
 
 ## 連絡先
 
-ご質問やお問い合わせは、[your-email@example.com](mailto:your-email@example.com) までご連絡ください。
+ご質問やお問い合わせは、[2005nkgg@mail.com](mailto:2005ngkg@gmail.com) までご連絡ください。
 
 ---
 
